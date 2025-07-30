@@ -1,0 +1,45 @@
+body{
+    color: #a54328;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    padding-left: 20%;
+}
+span{
+    width: 100%;
+}
+.div0 {
+    height: 0%;
+    width: 80%;
+    position:center;
+    padding-top: 100px;
+    margin-top: 0px;
+    display: flex;
+}
+.div1 {
+    text-align: justify;
+    width: 50%;
+    height: 50%;
+}
+.div2{
+    padding-left: 20%;
+    margin-top: 10px;
+    width: 45%;
+    height: 10%;
+}
+.imgtopo{
+    width: 75%;
+}
+.botao {
+   background-color: #a54328;
+   padding: 10px;
+   text-align: center;
+   color: #ffffff;
+   border-radius: 10px;
+   border: none;
+}
+
+.botao:hover {
+    background-color: #ffffff;
+    color: #a54328;
+}
